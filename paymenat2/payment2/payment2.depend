@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1692260555 source:c:\users\homepc\desktop\payment application\paymenat2\payment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../card/card.h"
+	"../type.h"
+
+1692260555 c:\users\homepc\desktop\payment application\paymenat2\card\card.h
+	"../type.h"
+
+1692259905 c:\users\homepc\desktop\payment application\paymenat2\type.h
+

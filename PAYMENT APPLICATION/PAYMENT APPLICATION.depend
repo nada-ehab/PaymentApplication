@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1692259221 source:c:\users\homepc\desktop\payment application\payment application\card.c
+	<stdio.h>
+	<stdlib.h>
+	"type.h"
+	"card.h"
+	<string.h>
+
+1692259905 c:\users\homepc\desktop\payment application\payment application\type.h
+
+1692259328 c:\users\homepc\desktop\payment application\payment application\card.h
+	"type.h"
+

@@ -1,0 +1,13 @@
+﻿  card.c
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\PAYMENT APPLICATION\card.c(14,2): warning C4013: 'print' undefined; assuming extern returning int
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\PAYMENT APPLICATION\card.c(15,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\PAYMENT APPLICATION\card.c(17,23): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\PAYMENT APPLICATION\card.c(39,39): warning C4047: '==': 'uint8_t [6]' differs in levels of indirection from 'int'
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\PAYMENT APPLICATION\card.c(43,22): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\PAYMENT APPLICATION\card.c(61,43): warning C4047: '==': 'uint8_t [20]' differs in levels of indirection from 'int'
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\PAYMENT APPLICATION\card.c(66,22): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+  main.c
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1127,5): error MSB6006: "link.exe" exited with code 1120.
+card.obj : error LNK2019: unresolved external symbol print referenced in function getCardHolderName
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\x64\Debug\PAYMENT APPLICATION.exe : fatal error LNK1120: 1 unresolved externals

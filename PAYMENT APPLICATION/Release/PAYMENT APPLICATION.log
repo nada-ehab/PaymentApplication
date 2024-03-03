@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\HomePC\Desktop\PAYMENT APPLICATION\PAYMENT APPLICATION\main.c(20,5): warning C4013: 'isBlockedAccountTest' undefined; assuming extern returning int
+  Generating code
+  7 of 7 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PAYMENT APPLICATION.vcxproj -> C:\Users\HomePC\Desktop\PAYMENT APPLICATION\Release\PAYMENT APPLICATION.exe
